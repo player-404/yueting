@@ -22,11 +22,7 @@
 
 ### 地址：
 
-​	[线上地址](http://zphlplay.top)
-
 ​	<a href="https://github.com/player-404/yueting/releases/tag/1.0">app下载</a>
-
-​	[备用下载链接](https://wwr.lanzous.com/ijcikosn58d) （密码:8q3i）
 
 ### Project setup
 
